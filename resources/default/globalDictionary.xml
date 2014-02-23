@@ -1,0 +1,35 @@
+<dictionary>
+	<supported_language>English</supported_language>
+	<supported_language>Espanol</supported_language>
+	<supported_language>日本語</supported_language>
+	
+	<label id="startButton">
+		<english>Start</english>
+		<espanol>Empezar</espanol>
+		<日本語>はじめ</日本語>
+	</label>
+	<label id="optionsButton">
+		<english>Language</english>
+		<espanol>Idioma</espanol>
+		<日本語>オプション</日本語>
+	</label>
+	
+	<label id="criticalDesignInstructionsLn1">
+		<日本語>こんにちは!</日本語>
+	</label>
+	<label id="criticalDesignInstructionsLn2">
+		<日本語>目的: エネルギーを集めてください</日本語>
+	</label>
+	<label id="criticalDesignInstructionsLn3">
+		<日本語>コントロ:</日本語>
+	</label>
+	<label id="criticalDesignInstructionsLn4">
+		<日本語>左は左です</日本語>
+	</label>
+	<label id="criticalDesignInstructionsLn5">
+		<日本語>右は右です</日本語>
+	</label>
+	<label id="criticalDesignInstructionsLn6">
+		<日本語>回る： Q と R</日本語>
+	</label>
+</dictionary>
